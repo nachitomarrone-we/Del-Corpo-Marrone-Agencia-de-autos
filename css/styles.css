@@ -91,32 +91,35 @@ p {color: #8b8b8b;
    
    
    footer {
-      background-color: #000;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      align-items: stretch;
-      gap: 3px;
-      padding: 3px;
-     }
-     #colegio{
-      width: 33%;
-      background-color: rgb(51, 51, 51);
-      padding: 5px;
-    }
-    #colegio a{
+    background-color: #000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 0;
+    padding: 0;
+}
+
+#colegio {
+    width: 50%;
+    background-color: rgb(51, 51, 51);
+    padding: 5px;
+}
+
+#colegio a {
     color: #ffffff;
-    }
-   
-    #alumno{
-      width: 33%;
-      background-color: rgb(126, 0, 0);
-      color: #aaa;
-      padding: 5px;
-    }
-    #alumno a{
-      color: #aaa;
-    }
+}
+
+#alumno {
+    width: 50%;
+    background-color: rgb(126, 0, 0);
+    color: #aaa;
+    padding: 5px;
+}
+
+#alumno a {
+    color: #aaa;
+}
     #sociales{
       width: 33%;
       background-color: rgb(51, 51, 51);
