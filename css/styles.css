@@ -135,7 +135,7 @@ p {color: #8b8b8b;
       text-align: center;
   }
 
-#estadosunidos tr,#estadosunidos td,#estadosunidos th{
+#logos tr,#logos td,#logos th{
     border: solid rgb(36, 33, 32) 3px;
     border: collapse;
     color: white;
@@ -144,11 +144,11 @@ p {color: #8b8b8b;
   }
 
     
-    #estadosunidos img{
+    #logos img{
     width: 200px;
     }
 
-    #estadosunidos{
+    #logos{
 float: left;
 width: 40%;
 
