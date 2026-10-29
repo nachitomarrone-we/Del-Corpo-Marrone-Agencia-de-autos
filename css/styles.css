@@ -136,6 +136,7 @@ p {color: #8b8b8b;
     border: solid rgb(36, 33, 32) 3px;
     border: collapse;
     color: white;
+    margin-right: 70px;
   
   }
 
@@ -205,8 +206,12 @@ ul li a{
 }
 
 
-ol li{
+ol {
+  margin-left: 30px;
+  padding-left: 20px;
+}
 
+ol li {
   color: white;
-
+  padding-left: 5px;
 }
